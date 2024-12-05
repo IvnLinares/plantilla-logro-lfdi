@@ -7,8 +7,8 @@ Este proyecto es una plantilla básica de una página web diseñada para que los
 - **Perfil Personal**: Sección inicial para que los niños incluyan su foto, una breve descripción personal y sus expectativas del taller.
 - **Bitácoras por Día**: Espacio dedicado a registrar las actividades y aprendizajes de cada día del taller.
 - **Navegación Fácil**: Un menú en la parte superior permite navegar entre el perfil y las bitácoras.
-- **Fondo Estilo Wallpaper**: Un fondo con imagen difuminada para darle un toque moderno y atractivo a la página.
-- **Estilo Responsivo**: Diseño adaptado para verse bien en diferentes dispositivos.
+- **Wallpaper**: Un fondo con imagen difuminada para darle un toque moderno y atractivo a la página.
+- **Estilo Responsive**: Diseño adaptado para verse bien en diferentes dispositivos.
 
 ## Archivos del Proyecto
 
@@ -25,7 +25,7 @@ Este proyecto es una plantilla básica de una página web diseñada para que los
      ```
 
 2. **Coloca tu Imagen de Fondo**
-   - Asegúrate de tener una imagen de fondo llamada `fondo.jpg` en el mismo directorio que los archivos HTML y CSS.
+   - Asegúrate de tener una imagen de fondo llamada `fondo.jpg` en el directorio `/media` que los archivos HTML y CSS.
    - Si deseas usar otra imagen, actualiza la línea en `styles.css`:
      ```css
      background-image: url('nombre-de-tu-imagen.jpg');
